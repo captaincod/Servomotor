@@ -5,7 +5,7 @@
 
 Код для Arduino - `Servo.ino`  
 Лог работы - `monitor_log.txt`  
-Видео-демонстрация работы - https://drive.google.com/file/d/1Tk_a1-aY15MtdNB2-M2uhY6zUPSaCxkJ/view?usp=sharing  
+Видео-демонстрация работы - https://bit.ly/3qtQQ18  
 
 ## Описание работы
 Используется датчик на основе фоторезиторов, спаянных с ещё одним резистором (деление напряжения),  
