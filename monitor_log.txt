@@ -1,0 +1,88 @@
+Servo angle: 60
+Direction: North
+
+Servo angle: 120
+Direction: West
+
+Servo angle: 60
+Direction: North
+
+Servo angle: 0
+Direction: East
+
+Servo angle: 120
+Direction: West
+
+Servo angle: 120
+Direction: West
+
+Servo angle: 120
+Direction: West
+
+Servo angle: 120
+Direction: West
+
+Servo angle: 60
+Direction: North
+
+Servo angle: 120
+Direction: West
+
+Servo angle: 120
+Direction: West
+
+Servo angle: 180
+Direction: South
+
+Servo angle: 180
+Direction: South
+
+Servo angle: 0
+Direction: East
+
+Servo angle: 120
+Direction: West
+
+Servo angle: 120
+Direction: West
+
+Servo angle: 120
+Direction: West
+
+Servo angle: 120
+Direction: West
+
+Servo angle: 120
+Direction: West
+
+Servo angle: 120
+Direction: West
+
+Servo angle: 0
+Direction: East
+
+Servo angle: 60
+Direction: North
+
+Servo angle: 0
+Direction: East
+
+Servo angle: 0
+Direction: East
+
+Servo angle: 60
+Direction: North
+
+Servo angle: 180
+Direction: South
+
+Servo angle: 60
+Direction: North
+
+Servo angle: 60
+Direction: North
+
+Servo angle: 60
+Direction: North
+
+
